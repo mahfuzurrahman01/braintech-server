@@ -5,34 +5,46 @@
       "name": "Web Development",
       "intro":"Web Development is the practice of developing websites and web apps that live on the internet. Whether you’re interested in front-end, back-end, or going full-stack, our web development courses will help you get there.",
       "roadmap":["HTML","CSS","BOOTSTRAP,TAILWIND CSS","JAVASCRIPT","GIT/GITHUB","REACT/ANGULAR"],
-      "classes":"56"
+      "classes":"356"
     },
     {
       "id": "635820db2d41f6e3267329d5",
       "picture": "https://img.freepik.com/free-vector/illustration-data-analysis-graph_53876-18186.jpg?size=626&ext=jpg&ga=GA1.2.1669069179.1665392436&semt=sph",
       "name": "Data Science",
-      "intro":"Web Development is the practice of developing websites and web apps that live on the internet. Whether you’re interested in front-end, back-end, or going full-stack, our web development courses will help you get there.",
-      "roadmap":["HTML","CSS","BOOTSTRAP,TAILWIND CSS","JAVASCRIPT","GIT/GITHUB","REACT/ANGULAR"],
-      "classes":"56"
+      "intro":"Data Scientists try to make sense of the data that’s all around us. Taking a data science course can help you make informed decisions, create beautiful visualizations, and even try to predict future events through Machine Learning. If you’re curious about what you can learn about the world using the data produced every day, then data science might be for you!",
+      "roadmap":["Linear Algebra","Probability and statistics","ISLR/python Machine learning","Kaggle/analytics","Dive into deep learning pytorch","Pytorch/tensorflow"],
+      "classes":"260"
     },
     {
       "id": "635820db4bc729012dc4092a",
       "picture": "https://img.freepik.com/free-photo/close-up-man-writing-code-laptop_158595-5169.jpg?w=1060&t=st=1666720623~exp=1666721223~hmac=8c1631a5babc1514daa42bf32e6c06d700408fa0ccf5509126b23b1c5b989f99",
-      "name": "Computer Science"
+      "name": "Computer Science",
+      "intro":"Computer Science, often referred to as “CS,” is a broad term that covers many sub-disciplines, including the worlds of software and hardware. It can be found in every piece of technology you use, from a smartphone or gaming console to a car or ATM. With so many applications for Computer Science, there’s a space for everyone!",
+      "roadmap":["Programming","CS1301","Problem solving","Analytics Geometry","kent core requirement","Data structure and abstruction","Operating system","Computer Architecture","Computer Communication network","Software Engineering","Structure of Programming language"],
+      "classes":"460"
     },
     {
       "id": "635820db826983e2c5c04451",
       "picture": "https://img.freepik.com/free-photo/web-design_53876-167070.jpg?w=1060&t=st=1666720689~exp=1666721289~hmac=dc7b550be1552477abeaaf20f200f53ba09af06a164c934094f54da2803d97f1",
-      "name": "Web Design"
+      "name": "Web Design",
+      "intro":"Web Design is essential to bringing a website to life and creating the experience that you want for your end users. Our web design courses will help you polish your HTML and CSS skills while learning about color design, navigation design, and more.",
+      "roadmap":["CSS library","CSS framework","CSS preprocessor","ES6 and Typesrcipt","Package Manager","Js framework ","Js library"],
+      "classes":"170"
     },
     {
       "id": "635820dbdc13446b37c7f08d",
       "picture": "https://img.freepik.com/free-photo/business-corporate-protection-safety-security-concept_53876-64964.jpg?w=1060&t=st=1666720733~exp=1666721333~hmac=3d31b8bc0565dd623d15a7b67409a145f86989db0383dfae9b6d27caa80e49df",
-      "name": "Cybersecurity"
+      "name": "Cybersecurity",
+      "intro":"Cybersecurity is a fast-growing field that addresses the security risks of our increasingly connected digital world. Learn cybersecurity, and you will learn how users, companies, and even governments protect themselves and recover from cyber threats and attacks. Start defending yourself or your organization, or let this be your first step to becoming a security professional!",
+      "roadmap":["Foundation","GAP analysis","Capability","Implement","Evaluate","Optimize","Open resource work","practice"],
+      "classes":"270"
     },
     {
       "id": "635820db082a7a0409dee94c",
       "picture": "https://img.freepik.com/free-photo/ai-nuclear-energy-background-future-innovation-disruptive-technology_53876-129783.jpg?w=1060&t=st=1666720820~exp=1666721420~hmac=7c0fa6ef4f5107e2a2807a3e58ac8507210a79744bf73aed232703e03c2fb7a7",
-      "name": "Machine Learning"
+      "name": "Machine Learning",
+      "intro":"Machine Learning is an increasingly hot field of data science dedicated to enabling computers to learn from data. From spam filtering in social networks to computer vision for self-driving cars, the potential applications of Machine Learning are vast.",
+      "roadmap":["Probability","Statistics","Learning Algorithm","Pattern recognition","Classification","SKI kit learn","Tensorflow","Pytorch"],
+      "classes":"255"
     }
   ]
