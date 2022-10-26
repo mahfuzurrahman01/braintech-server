@@ -1,0 +1,38 @@
+[
+    {
+      "id": "635820db3926e6ba7290e0db",
+      "picture": "https://img.freepik.com/free-psd/website-instant-showcase-mockup-isolated_359791-227.jpg?w=900&t=st=1666720133~exp=1666720733~hmac=ef51a0f60e022d349c061e21f8125cabd381a85cfcd5a40b08403db5f3e9a4ae",
+      "name": "Web Development",
+      "intro":"Web Development is the practice of developing websites and web apps that live on the internet. Whether you’re interested in front-end, back-end, or going full-stack, our web development courses will help you get there.",
+      "roadmap":["HTML","CSS","BOOTSTRAP,TAILWIND CSS","JAVASCRIPT","GIT/GITHUB","REACT/ANGULAR"],
+      "classes":"56"
+    },
+    {
+      "id": "635820db2d41f6e3267329d5",
+      "picture": "https://img.freepik.com/free-vector/illustration-data-analysis-graph_53876-18186.jpg?size=626&ext=jpg&ga=GA1.2.1669069179.1665392436&semt=sph",
+      "name": "Data Science",
+      "intro":"Web Development is the practice of developing websites and web apps that live on the internet. Whether you’re interested in front-end, back-end, or going full-stack, our web development courses will help you get there.",
+      "roadmap":["HTML","CSS","BOOTSTRAP,TAILWIND CSS","JAVASCRIPT","GIT/GITHUB","REACT/ANGULAR"],
+      "classes":"56"
+    },
+    {
+      "id": "635820db4bc729012dc4092a",
+      "picture": "https://img.freepik.com/free-photo/close-up-man-writing-code-laptop_158595-5169.jpg?w=1060&t=st=1666720623~exp=1666721223~hmac=8c1631a5babc1514daa42bf32e6c06d700408fa0ccf5509126b23b1c5b989f99",
+      "name": "Computer Science"
+    },
+    {
+      "id": "635820db826983e2c5c04451",
+      "picture": "https://img.freepik.com/free-photo/web-design_53876-167070.jpg?w=1060&t=st=1666720689~exp=1666721289~hmac=dc7b550be1552477abeaaf20f200f53ba09af06a164c934094f54da2803d97f1",
+      "name": "Web Design"
+    },
+    {
+      "id": "635820dbdc13446b37c7f08d",
+      "picture": "https://img.freepik.com/free-photo/business-corporate-protection-safety-security-concept_53876-64964.jpg?w=1060&t=st=1666720733~exp=1666721333~hmac=3d31b8bc0565dd623d15a7b67409a145f86989db0383dfae9b6d27caa80e49df",
+      "name": "Cybersecurity"
+    },
+    {
+      "id": "635820db082a7a0409dee94c",
+      "picture": "https://img.freepik.com/free-photo/ai-nuclear-energy-background-future-innovation-disruptive-technology_53876-129783.jpg?w=1060&t=st=1666720820~exp=1666721420~hmac=7c0fa6ef4f5107e2a2807a3e58ac8507210a79744bf73aed232703e03c2fb7a7",
+      "name": "Machine Learning"
+    }
+  ]
